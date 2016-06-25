@@ -1,0 +1,11 @@
+molex@molex-PC MINGW32 ~/desktop/git_pract/git_repo
+$ pwd
+/c/Users/molex/desktop/git_pract/git_repo
+
+molex@molex-PC MINGW32 ~/desktop/git_pract/git_repo
+$ git init
+Initialized empty Git repository in C:/Users/molex/Desktop/git_pract/git_repo/.git/
+
+molex@molex-PC MINGW32 ~/desktop/git_pract/git_repo (master)
+$
+
