@@ -1,0 +1,24 @@
+ls -ltr
+tail -100f file_name
+less file_name
+/Word to search
+netstat
+ps -ef | grep java 
+du -sh
+du -sh * | grep G
+df -h
+free
+chmod 
+chown 
+tar 
+gzip
+difference between war , ear 
+lsof
+wget 
+ps -aux 
+top
+kill
+uname -a
+grep
+find
+locate 
